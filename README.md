@@ -95,10 +95,7 @@ pnpm build
 {
   "mcpServers": {
     "obsidian": {
-      "args": [
-        "-y",
-        "@likcheung/obsidian-mcp"
-      ],
+      "args": ["-y", "@likcheung/obsidian-mcp"],
       "command": "npx"
     }
   }
@@ -175,6 +172,14 @@ obsidian-mcp/
 - [Zod](https://zod.dev/) - 参数验证
 - [tsup](https://tsup.egoist.dev/) - 构建工具
 - TypeScript + ESM
+
+## 社区支持
+
+**学 AI，上 L 站**
+
+[![LINUX DO](https://img.shields.io/badge/LINUX%20DO-社区-gray?style=flat-square)](https://linux.do/) [![社区支持](https://img.shields.io/badge/社区支持-交流-blue?style=flat-square)](https://linux.do/)
+
+本项目在 [LINUX DO](https://linux.do/) 社区发布与交流，感谢佬友们的支持与反馈。
 
 ## License
 
